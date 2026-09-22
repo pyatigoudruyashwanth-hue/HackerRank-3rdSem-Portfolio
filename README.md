@@ -83,7 +83,7 @@ Add your Accepted screenshot here.
 Add your Accepted screenshot here.
 
 ### Time Conversion
-Add your Accepted screenshot here.
+[Add your Accepted screenshot here.](https://github.com/pyatigoudruyashwanth-hue/HackerRank-3rdSem-Portfolio/blob/main/Time-Conversion/time-conversion.png)
 
 ### Compare the Triplets
 [Add your Accepted screenshot here](https://github.com/pyatigoudruyashwanth-hue/HackerRank-3rdSem-Portfolio/blob/main/Compare-the-Triplets/compare-triplets.png)
