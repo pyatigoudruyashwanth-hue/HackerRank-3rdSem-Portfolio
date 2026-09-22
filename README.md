@@ -89,7 +89,7 @@ Add your Accepted screenshot here.
 [Add your Accepted screenshot here](https://github.com/pyatigoudruyashwanth-hue/HackerRank-3rdSem-Portfolio/blob/main/Compare-the-Triplets/compare-triplets.png)
 
 ### Sparse Arrays
-Add your Accepted screenshot here.
+[Add your Accepted screenshot here.](https://github.com/pyatigoudruyashwanth-hue/HackerRank-3rdSem-Portfolio/blob/main/Sparse-Arrays/sparse-arrays.png)
 
 ---
 
