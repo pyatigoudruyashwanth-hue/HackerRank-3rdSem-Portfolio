@@ -77,7 +77,7 @@ Counts the occurrences of query strings in the given list of strings.
 ## HackerRank Submission Screenshots
 
 ### Diagonal Difference
-Add your Accepted screenshot here.
+[Add your Accepted screenshot here.](https://github.com/pyatigoudruyashwanth-hue/HackerRank-3rdSem-Portfolio/blob/main/Diagonal-Difference/diagonal-difference.png)
 
 ### Dynamic Array
 Add your Accepted screenshot here.
