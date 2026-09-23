@@ -95,7 +95,7 @@ Add your Accepted screenshot here.
 
 ## HackerRank Badge
 
-Add your HackerRank badge screenshot here.
+[Add your HackerRank badge screenshot here.](https://github.com/pyatigoudruyashwanth-hue/HackerRank-3rdSem-Portfolio/blob/main/hackerRank_badge.png)
 
 ---
 
